@@ -1,0 +1,38 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Nabendu ",
+        "tagline": "An experienced fullstack JS dev",
+        "profile_img": "https://res.cloudinary.com/dxkxvfo2o/image/upload/v1580549632/selfPhoto_dfptpj.jpg",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with ❤️ and ☕️ in India",
+                "url": "https://www.nabendu.me",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Nabendu's Blog",
+    "author": "Nabendu Biswas",
+    "siteUrl": "https://nabendu.blog/",
+    "description": "Blog posts started by Nabendu Biswas to share stuff i learn in my Web development journey",
+    "keywords": [
+        "Nabendu",
+        "Biswas",
+        "UI Lead",
+        "GatsbyJs",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJs",
+        "React developer",
+        "Front-end Engineer"
+    ]
+}
