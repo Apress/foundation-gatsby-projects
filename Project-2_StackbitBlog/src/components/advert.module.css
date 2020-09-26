@@ -1,0 +1,31 @@
+.sponserAds{
+    padding: 1rem 0.5rem;
+}
+
+.advert1{
+    box-shadow: 2px 2px 6px 0px rgba(142,142,142,1);
+    border: none;
+    border-radius: 4px;
+    outline: none;
+    height: auto;
+    background: white;
+    text-align: center;
+}
+
+.coverImg{
+    max-width: 300px;
+    width:100%;
+    height: auto;
+}
+
+.advert1 a{
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background: #4CAAB3;
+    padding: 8px 10px;
+    border-radius: 2%;
+    transition: all 0.3s ease-in-out;
+}
