@@ -1,0 +1,16 @@
+.remoteVideo{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    grid-gap: 10px;
+    justify-items: center;
+}
+
+video{
+    width: 100%;
+    max-width: 240px
+}
+
+h2 {
+    margin: 1rem 0;
+}
+
